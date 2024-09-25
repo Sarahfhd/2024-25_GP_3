@@ -1,6 +1,8 @@
 
 <img width="148" alt="image" src="https://github.com/user-attachments/assets/f6d51c47-a426-48a9-ab72-3cb35b93dbeb">
 
+# Jasoor | جَسور 
+
 ## Introduction
 
 Phobias impact millions globally, causing irrational fears that can severely disrupt daily life. Defined by the World Health Organization, phobias lead to overwhelming anxiety and avoidance behaviors. Despite existing treatments like cognitive behavioral therapy and exposure therapy, accessibility and engagement issues remain significant barriers.
@@ -18,7 +20,9 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><br><br>  Unity <br>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
- ## <h3 align="left">Equipments:</h3>
+ ## Equipments:
 -  VR Headset
 -  VR cpntrollers
 -  GSR sensor
+
+## launching instructions 
