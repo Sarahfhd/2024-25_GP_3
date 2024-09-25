@@ -25,4 +25,13 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 -  VR cpntrollers
 -  GSR sensor
 
-## launching instructions 
+## launching Instructions 
+
+1. **Clone the Repository**:
+2. **Make sure Android studio and Unity are downloaded**
+3. **Install the required libraries and code files of Dart**.
+4. **open the Unity files**.
+5. **Connect your VR headser and controllers to the application**.
+6. **Run the application on android studio**.
+7. **Start the enviornment and Explore through it**.
+
