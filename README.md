@@ -22,7 +22,7 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 
  ## Equipments:
 -  VR Headset
--  VR cpntrollers
+-  VR controllers
 -  GSR sensor
 
 ## launching Instructions 
