@@ -42,6 +42,32 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 7. **Launch the VR Environment:** Put on the VR headset and Navigate to your installed application and Launch the application to start using the VR environment.
 
 ## Launch the Application
-1. **Run the Application:** Connect your device or start an emulator and Run the application.
-
-
+1. Download the zip file.
+2. Open your IDE (e.g. VS Code)
+### Option 1: Android Studio
+A. Install Flutter Plugin:
+    Open Android Studio.
+    Go to File > Settings > Plugins.
+    Search for Flutter and install it (it will also install Dart).
+    Restart Android Studio if needed.
+B. Open the Project:
+   Go to File > Open.
+   Navigate to your Flutter project folder and select it.
+   Click OK.
+   Android Studio will detect the pubspec.yaml file and configure the project automatically.
+C. Run the App:
+   Connect a device or start an emulator.
+   Click the Run button or use the terminal (flutter run).
+### Option 2: Visual Studio Code
+A. Install Extensions:
+Open VS Code.
+Go to Extensions (Ctrl+Shift+X).
+Install the Flutter and Dart extensions.
+B. Open the Project:
+Go to File > Open Folder.
+Select your Flutter project folder.
+C. Run the App:
+Open the terminal in VS Code.
+Run the command:
+flutter run
+Alternatively, press F5 to start debugging.
