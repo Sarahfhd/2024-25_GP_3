@@ -27,7 +27,7 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 -  Android System Device
 
 ## launching Instructions 
-
+## Lanch the VR
 1. **Clone the Repository**: https://github.com/Sarahfhd/2024-25_GP_3.git
 2. **Make sure Flutter and Unity are downloaded**
 3. **Open and Install the project files from the GitHub repository.**
