@@ -26,6 +26,10 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 -  GSR Sensor
 -  Android System Device
 
+## The system Repositries:
+1- VR application: https://github.com/LayanAlmousa/JasoorVR
+2- Mobile application: https://github.com/LayanAlmousa/Jasoor
+
 ## launching Instructions 
 ## Lanch the VR
 1. **Clone the Repository**: https://github.com/LayanAlmousa/JasoorVR
@@ -37,4 +41,8 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 7. **Configure Unity for VR:** Go to Edit > Project Settings and Under XR Plugin Management, enable the appropriate VR SDK (Oculus).
 8. **Deploy to the VR Headset:** connect your VR headset to your computer.
 9. **Launch the VR Environment:** Put on the VR headset and Navigate to your installed application and Launch the application to start using the VR environment.
+
+## Lanch the Application
+
+
 
