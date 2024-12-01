@@ -31,7 +31,8 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 2. **Mobile application**: https://github.com/LayanAlmousa/Jasoor
 
 ## launching Instructions 
-## Lanch the VR
+1. **Make sure Flutter and Unity are downloaded**
+## Launch the VR
 1. **Clone the Repository**: https://github.com/LayanAlmousa/JasoorVR
 2. **Make sure Flutter and Unity are downloaded**
 3. **Open and Install the project files from the GitHub repository.**
@@ -42,7 +43,7 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 8. **Deploy to the VR Headset:** connect your VR headset to your computer.
 9. **Launch the VR Environment:** Put on the VR headset and Navigate to your installed application and Launch the application to start using the VR environment.
 
-## Lanch the Application
+## Launch the Application
 
 
 
