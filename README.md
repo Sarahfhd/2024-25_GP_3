@@ -1,7 +1,7 @@
 
 <img width="148" alt="image" src="https://github.com/user-attachments/assets/f6d51c47-a426-48a9-ab72-3cb35b93dbeb">
 
-<img width="148" alt="image" src="https://github.com/user-attachments/assets/612bae3e-bf6e-450e-9e30-92b6197a6c93">
+
 
 # Jasoor | جَسور 
 
