@@ -28,9 +28,9 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 ## launching Instructions 
 
 1. **Clone the Repository**: https://github.com/Sarahfhd/2024-25_GP_3.git
-2. **Make sure Android studio and Unity are downloaded**
-3. **Open and Install the required libraries and code files of Dart**.
-4. **open and Install the Unity files**.
+2. **Make sure Flutter and Unity are downloaded**
+3. **Open and Install the project files from the GitHub repository.**.
+4. **Run the Application:** Connect your device or start an emulator and Run the application.
 5. **Connect your VR headsert and controllers to the application**.
 6. **Run the application on android studio**.
 7. **Start the enviornment and Explore through it**.
