@@ -28,7 +28,7 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 
 ## The system Repositries:
 1. **VR application**: https://github.com/LayanAlmousa/JasoorVR
-2. **obile application**: https://github.com/LayanAlmousa/Jasoor
+2. **Mobile application**: https://github.com/LayanAlmousa/Jasoor
 
 ## launching Instructions 
 ## Lanch the VR
