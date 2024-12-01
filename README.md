@@ -34,16 +34,14 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 1. **Make sure Flutter and Unity are downloaded**
 ## Launch the VR
 1. **Clone the Repository**: https://github.com/LayanAlmousa/JasoorVR
-2. **Make sure Flutter and Unity are downloaded**
-3. **Open and Install the project files from the GitHub repository.**
-4. **Run the Application:** Connect your device or start an emulator and Run the application.
-5. **Open Unity:** Launch Unity Hub and open the project that contains the VR environment.
-6. **Make sure your VR headset is connected and recognized by your computer.**
-7. **Configure Unity for VR:** Go to Edit > Project Settings and Under XR Plugin Management, enable the appropriate VR SDK (Oculus).
-8. **Deploy to the VR Headset:** connect your VR headset to your computer.
-9. **Launch the VR Environment:** Put on the VR headset and Navigate to your installed application and Launch the application to start using the VR environment.
+2. **Open and Install the project files from the GitHub repository.**
+3. **Open Unity:** Launch Unity Hub and open the project that contains the VR environment.
+4. **Configure Unity for VR:** Go to Edit > Project Settings and Under XR Plugin Management, enable the appropriate VR SDK (Oculus).
+5. **Make sure your VR headset is connected and recognized by your computer.**
+6. **Deploy to the VR Headset:** connect your VR headset to your computer.
+7. **Launch the VR Environment:** Put on the VR headset and Navigate to your installed application and Launch the application to start using the VR environment.
 
 ## Launch the Application
-
+1. **Run the Application:** Connect your device or start an emulator and Run the application.
 
 
