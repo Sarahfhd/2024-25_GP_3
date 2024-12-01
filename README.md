@@ -27,8 +27,8 @@ Driving phobia is a prevalent concern, even among our group of four, where two m
 -  Android System Device
 
 ## The system Repositries:
-1- VR application: https://github.com/LayanAlmousa/JasoorVR
-2- Mobile application: https://github.com/LayanAlmousa/Jasoor
+1. **VR application**: https://github.com/LayanAlmousa/JasoorVR
+2. **obile application**: https://github.com/LayanAlmousa/Jasoor
 
 ## launching Instructions 
 ## Lanch the VR
